@@ -1,0 +1,12 @@
+clarifai
+cv2
+google-api-python-client
+matplotlib
+pathos
+pygraphviz
+pysrt
+seaborn
+SpeechRecognition>=3.6.0
+pytesseract
+IndicoIo
+tensorflow>=1.0.0

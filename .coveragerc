@@ -1,0 +1,4 @@
+[run]
+omit =
+    pliers/tests/*
+    pliers/external/*

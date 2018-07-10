@@ -1,0 +1,11 @@
+pathos
+python-magic
+numpy>=1.8.1
+nltk>=3.0.0
+moviepy>=0.2.2.13
+pandas>=0.14.0
+pillow
+requests
+scipy>=0.13.3
+six
+tqdm

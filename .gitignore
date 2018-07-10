@@ -1,0 +1,11 @@
+*.pyc
+*.DS_Store
+*~
+benchmarks/
+build/
+dist
+dist/*
+*.egg-info
+.cache
+doc/
+TODO.txt
